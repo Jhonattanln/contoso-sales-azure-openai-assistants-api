@@ -5,6 +5,12 @@ nav:
   - Security: security.md
   - Resources: resources.md
   - Conversation: conversation.md
+  - Code Interpreter:
+      - Overview: code_interpreter_index.md
+      - Complete Guide: code_interpreter_guide.md
+      - Technical Flows: code_interpreter_technical_flow.md
+      - Practical Examples: code_interpreter_examples.md
+      - Quick Reference: README_code_interpreter.md
   - Development: development.md
   - Deployment: deployment.md
   - Summary: summary.md
