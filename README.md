@@ -9,3 +9,4 @@ The documentation includes:
 1. How to use the assistant
 2. How to develop the assistant
 3. How to deploy the assistant
+4. **Code Interpreter functionality** - See [docs/code_interpreter_index.md](docs/code_interpreter_index.md) for complete documentation on how the Code Interpreter works, including technical details, examples, and implementation guide.
